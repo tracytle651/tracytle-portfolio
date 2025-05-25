@@ -1,12 +1,20 @@
-# tracytle-portfolio
+# Tracy Le's Portfolio
 
-# 💼 Tracy Le – Business Intelligence Analyst
+Welcome to my portfolio repository!
 
-Welcome to my Data Portfolio!
+This space is where I collect and share the work I’ve done throughout my academic journey and early professional experiences — from designing operational databases to building dashboards and analyzing business problems with data. These projects reflect not only the skills I’ve developed, but also the curiosity and care I bring to solving problems thoughtfully and clearly.
 
-I'm a Business Intelligence Analyst with 1 year of professional experience in leveraging data to drive strategic business decisions. My work focuses on transforming raw data into meaningful insights through data cleaning, visualization, and storytelling. I’ve worked with SQL, Power BI, Python, and Excel to solve business problems and communicate findings clearly to stakeholders.
+You’ll find a mix of coursework, independent projects, and professional work (anonymized where needed), all organized and documented for transparency and reflection.
 
-This portfolio showcases a combination of personal, academic, and professional (anonymized) projects across retail, e-commerce, and public datasets.
+My personal website is available at: https://your-github-username.github.io/
+
+It’s a responsive site I built using HTML, CSS, and JavaScript to bring my work and story together in one place.
+
+Thanks for stopping by — feel free to browse, explore, and reach out.
+
+📬 LinkedIn: https://www.linkedin.com/in/thuongtranhoaile/  
+🎓 Resume: [Available in this repository](./Thuong_Le_Resume.pdf)  
+🌐 Website Template Credit: https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ---
 
