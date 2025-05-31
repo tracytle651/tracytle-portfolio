@@ -25,7 +25,7 @@ Resume: Tracy Le Resume.pdf
 
 ## Projects
 
-### [Retail Sales Dashboard](./retail-sales-analysis)
+### [Ames Housing Prices Prediction](./ames-housing-price)
 Created a Power BI dashboard to analyze regional sales performance, product category trends, and profit margins. Provided insights to support marketing and inventory decisions.
 
 > **Skills**: Power BI · SQL · Data Modeling · Business Insight
