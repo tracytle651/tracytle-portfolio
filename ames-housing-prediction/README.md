@@ -1,0 +1,43 @@
+# 🏡 Ames Housing Price Prediction
+
+This project applies predictive modeling to the Ames, Iowa housing dataset from Kaggle. The goal is to accurately estimate home sale prices based on over 70 features describing property characteristics, quality, and neighborhood factors.
+
+---
+
+## 🧠 Project Objective
+
+To build a regression model that predicts housing prices with strong accuracy and interpretability, using a clean and well-documented dataset as a foundation for end-to-end modeling.
+
+---
+
+## 📌 What This Project Covers
+
+- Data exploration and cleaning
+- Handling missing values, skewed variables, and categorical encodings
+- Feature engineering and variable selection
+- Model comparison using RMSE
+- Final prediction using regularized regression (Lasso, Ridge)
+
+The entire workflow is conducted in **R**, with detailed commentary and visualizations included in the final report.
+
+---
+
+## 📂 Files in This Folder
+
+| File | Description |
+|------|-------------|
+| `ames_modeling.R` | R script for data cleaning, EDA, feature engineering, and modeling |
+| `ames_housing_report.pdf` | Final report summarizing approach, model results, and insights |
+| (optional) `submission.csv` | Sample prediction submission (if from Kaggle competition)
+
+---
+
+## 💡 Key Takeaways
+
+- Emphasized clarity and interpretability throughout the modeling process
+- Practiced data preprocessing techniques commonly required in real-world datasets
+- Gained experience applying regularized regression and evaluating performance on unseen data
+
+---
+
+📁 [← Back to Portfolio Homepage](../README.md)
