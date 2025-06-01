@@ -24,6 +24,8 @@ Resume: Tracy Le Resume.pdf
 
 ## Portfolio Projects
 
+In this section you can find short summary of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.
+
 ### [Pricing Performance Analysis](./pricing-performance-analysis)  
 This project analyzed sales and pricing performance data from a regional thrift retailer. Using R for data cleaning and preparation, the final output was an interactive Tableau dashboard that allowed stakeholders to track markdown trends and category performance. 
 [**Pricing Performance Tracker Dashboard**](https://public.tableau.com/app/profile/thuong.le1526/viz/PricingPerformanceTracker/Dashboard)
