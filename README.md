@@ -55,6 +55,7 @@ This project investigated the effects of seat belt enforcement levels and BAC re
 **Co-author**, published at the 2024 Americas Conference on Information Systems (AMCIS)
 
 This paper empirically tests a comprehensive model of factors influencing female students' decisions to pursue IT majors, originally proposed by Adya and Kaiser (2005). Using survey data from 186 college freshmen, the study highlights the significant impact of role model access and IT self-efficacy on students' major choices. 
+
 [Go to paper](https://authorconnect.aisnet.org/conferences/AMCIS2024/papers/1289)
 
 > **Venue**: AMCIS 2024 · Information Systems Education Track
