@@ -33,19 +33,19 @@ This project analyzed sales and pricing performance data from a regional thrift 
 This project explored U.S. gasoline demand from 2000 to 2023 by combining energy, macroeconomic, and transportation indicators. The modeling process included forecasting with Prophet and XGBoost, along with interpretability techniques to understand feature influence.  
 > **Skills**: Python · XGBoost · Feature Engineering · SHAP · Time Series Modeling
 
-### [College Enrollment Decision Prediction](./college-enrollment-decision-prediction)  
+### [3. College Enrollment Decision Prediction](./college-enrollment-decision-prediction)  
 This project predicted student enrollment outcomes using application data and machine learning models. Logistic regression and classification techniques in R were used to analyze trends influencing college enrollment decisions.  
 > **Skills**: R · Classification · Data Wrangling · Modeling · caret
 
-### [Ames House Prices Prediction](./ames-house-prices-prediction)  
+### [4. Ames House Prices Prediction](./ames-house-prices-prediction)  
 This project modeled housing prices in Ames, Iowa using structured residential property data. Regression models with regularization (ridge and lasso) were applied to predict sale prices with improved generalizability.  
 > **Skills**: R · Regression · Lasso · Ridge · EDA · Model Evaluation
 
-### [Bookstore Operational Database Design](./bookstore-operational-database-design)  
+### [5. Bookstore Operational Database Design](./bookstore-operational-database-design)  
 This project involved designing a relational SQL database for a used bookstore. The schema captured operations such as inventory management, sales tracking, and customer engagement. Business questions were answered using optimized SQL queries.  
 > **Skills**: SQL · Relational Databases · Schema Design · Query Writing
 
-### [Seat Belt Enforcement Impact Analysis](./seatbelt-enforcement-impact-analysis) 
+### [6. Seat Belt Enforcement Impact Analysis](./seatbelt-enforcement-impact-analysis) 
 This project investigated the effects of seat belt enforcement levels and BAC regulations on U.S. traffic fatality rates from 1983 to 1997. Statistical methods such as hypothesis testing and regression were applied to assess policy impact.  
 > **Skills**: R · Hypothesis Testing · Linear Regression · infer · Data Visualization
 
