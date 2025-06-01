@@ -4,13 +4,7 @@ This project explores predictive modeling using the Ames, Iowa housing dataset. 
 
 This project was completed using R and includes all stages of the machine learning pipeline, from data preparation to model evaluation.
 
-## Deliverables
 
-| File | Description |
-|------|-------------|
-| `ames-cleaning-and-modeling.R` | R script for data cleaning and modeling |
-| `ames-project-report.pdf` | Final report summarizing approach, model results, and insights |
-| `ames-submission.csv` | Sample prediction submission
 
 ## Methodology
 
@@ -23,7 +17,13 @@ The analysis includes the following steps:
 - Assessing model performance using root mean squared error (RMSE) as the evaluation metric
 
 
+## Deliverables
 
+| File | Description |
+|------|-------------|
+| `ames-cleaning-and-modeling.R` | R script for data cleaning and modeling |
+| `ames-project-report.pdf` | Final report summarizing approach, model results, and insights |
+| `ames-submission.csv` | Sample prediction submission
 
 
 [Back to portfolio homepage](../README.md)
