@@ -4,8 +4,6 @@ Welcome to my portfolio repository!
 
 This space is where I collect and share the work I’ve done throughout my academic journey and early professional experiences — from designing operational databases to building dashboards and analyzing business problems with data. These projects reflect not only the skills I’ve developed, but also the curiosity and care I bring to solving problems thoughtfully and clearly.
 
-You’ll find a mix of coursework, independent projects, and professional work (anonymized where needed), all organized and documented for transparency and reflection.
-
 Thanks for stopping by — feel free to browse, explore, and reach out.
 
 LinkedIn: https://www.linkedin.com/in/thuongtranhoaile/  
