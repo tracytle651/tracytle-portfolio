@@ -26,7 +26,7 @@ Resume: Tracy Le Resume.pdf
 
 ### [Pricing Performance Analysis](./pricing-performance-analysis)  
 This project analyzed sales and pricing performance data from a regional thrift retailer. Using R for data cleaning and preparation, the final output was an interactive Tableau dashboard that allowed stakeholders to track markdown trends and category performance. 
-Tableau dashboard: [**Pricing Performance Tracker Dashboard**](https://public.tableau.com/app/profile/thuong.le1526/viz/PricingPerformanceTracker/Dashboard)
+[**Pricing Performance Tracker Dashboard**](https://public.tableau.com/app/profile/thuong.le1526/viz/PricingPerformanceTracker/Dashboard)
 > **Skills**: R · Data Cleaning · Dashboard Design · Tableau · Business Analysis
 
 ### [Gasoline Demand Forecasting and Driver Analysis](./gasoline-demand-forecasting)  
