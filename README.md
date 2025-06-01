@@ -11,7 +11,7 @@ Resume: Tracy Le Resume.pdf
 
 
 ## Tools & Technologies
-Throughout my academic journey and early professional experience, I have worked extensively with a variety of data analysis, visualization, and database tools to extract insights, automate workflows, and support business reporting.
+Throughout my academic journey and early professional experiences, I have worked extensively with a variety of data analysis, visualization, and database tools to extract insights, automate workflows, and support business reporting.
 
 - **Database & Query Languages:** SQL (PostgreSQL, MySQL)  
 - **Data Analysis & Programming:** Python (Pandas, Matplotlib, Seaborn), Microsoft Excel (Pivot Tables, Advanced Formulas, Charts)  
