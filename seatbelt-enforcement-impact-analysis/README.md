@@ -23,13 +23,13 @@ Available via [`AER::USSeatBelts`](https://rdrr.io/cran/AER/man/USSeatBelts.html
 
 ## Methodology
 
-- **Exploratory Data Analysis (EDA)**: Summary statistics, boxplots, bar plots
-- **Simple Linear Regression (SLR)**:
+- Exploratory Data Analysis (EDA): Summary statistics, boxplots, bar plots
+- Simple Linear Regression (SLR):
   - Seatbelt usage vs. fatalities
   - Enforcement level vs. seatbelt usage
-- **Multiple Regression Models**:
+- Multiple Regression Models:
   - Parallel slopes and interaction models
-- **Hypothesis Testing**:
+- Hypothesis Testing:
   - Confidence intervals and p-values using bootstrapping
   - t-tests comparing BAC policy groups
 
@@ -38,9 +38,9 @@ Available via [`AER::USSeatBelts`](https://rdrr.io/cran/AER/man/USSeatBelts.html
 
 ## Key Findings
 
-- There is a **statistically significant negative relationship** between seat belt usage and traffic fatalities.
-- **Primary enforcement laws** were most effective in raising seat belt usage rates, followed by secondary enforcement.
-- States with **0.08 BAC laws** had **significantly lower fatality rates** than those without such laws.
+- There is a statistically significant negative relationship between seat belt usage and traffic fatalities.
+- Primary enforcement laws were most effective in raising seat belt usage rates, followed by secondary enforcement.
+- States with 0.08 BAC laws had significantly lower fatality rates** than those without such laws.
 - Interaction effects suggest that BAC laws modify the relationship between seat belt usage and fatalities.
 
 
@@ -48,7 +48,7 @@ Available via [`AER::USSeatBelts`](https://rdrr.io/cran/AER/man/USSeatBelts.html
 
 | File | Description |
 |------|-------------|
-| `Final_Thuong_Le.html` | Final project report with full statistical analysis |
-| `seatbelt_analysis.Rmd` | (Optional) R Markdown source file (if uploaded) |
+| `seatbelt-enforcement-report.html` | Final project report with full statistical analysis |
+| `seatbelt-enforcement-analysis.Rmd` | R Markdown source file |
 
 [Back to portfolio homepage](../README.md)
