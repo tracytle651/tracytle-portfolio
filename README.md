@@ -17,7 +17,7 @@ Resume: [Tracy Le – Resume.pdf](./Tracy%20Le%20-%20Resume.pdf)
 Throughout my academic journey and early professional experiences, I have worked extensively with a variety of data analysis, visualization, and database tools to extract insights, automate workflows, and support business reporting.
 
 - **Database & Query Languages:** SQL (PostgreSQL, MySQL)  
-- **Data Analysis & Programming:** Python (Pandas, Matplotlib, Seaborn), Microsoft Excel (Pivot Tables, Advanced Formulas, Charts)  
+- **Data Analysis & Programming:** Python (Pandas, Matplotlib, Seaborn), R, Microsoft Excel
 - **Data Visualization:** Power BI, Tableau  
 - **ETL & Data Integration:** Alteryx
 - **Business Reporting:** Designing and automating reports to support strategic insights
