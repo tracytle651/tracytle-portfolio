@@ -1,6 +1,7 @@
 # Bookstore Operational Database Design and Analysis
 
-This project was completed for the BAT-3306 Databases course and showcases both database design and practical business queries.
+This project was completed for the BAT-3306 Databases course and showcases both database design and practical business queries. All sample data used in this project is anonymized and synthetically generated for academic purposes.
+
 
 The bookstore — a secondhand retailer offering a wide range of used and rare books — requires an operational database to support its inventory management, promotional strategies, sales tracking, and customer relationship efforts. 
 
