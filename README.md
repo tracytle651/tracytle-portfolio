@@ -49,4 +49,15 @@ This project involved designing a relational SQL database for a used bookstore. 
 This project investigated the effects of seat belt enforcement levels and BAC regulations on U.S. traffic fatality rates from 1983 to 1997. Statistical methods such as hypothesis testing and regression were applied to assess policy impact.  
 > **Technologies**: R
 
+## 📄 Publication
+
+### [A Student-Led Consulting Model for Teaching Analytics](https://aisel.aisnet.org/amcis2024/is_education/is_education/14/)  
+**Co-author**, published at the 2024 Americas Conference on Information Systems (AMCIS)
+
+This peer-reviewed paper presents a pedagogical framework for integrating real-world consulting experiences into undergraduate analytics education.
+
+> **Venue**: AMCIS 2024 · Information Systems Education Track  
+> **Topics**: Analytics Education · Experiential Learning · Student Consulting · Curriculum Design
+
+
 
