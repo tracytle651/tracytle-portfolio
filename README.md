@@ -58,4 +58,9 @@ This paper empirically tests a comprehensive model of factors influencing female
 
 > **Venue**: AMCIS 2024 · Information Systems Education Track
 
+## Certificates
+- SQL (Advanced) Certification (HackerRank)
+- Alteryx Designer Core Certification (Alteryx)
+- Microsoft Office Specialist: Excel Expert (Microsoft)
+
 
