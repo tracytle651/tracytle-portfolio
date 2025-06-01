@@ -20,7 +20,7 @@ This work was conducted as part of the BAT-3303 Business Consulting course and h
 
 ## Dashboard
 
-The final results are presented through an interactive Tableau dashboard:
+The final results were presented through an interactive Tableau dashboard:
 
 [**Pricing Performance Tracker Dashboard**](https://public.tableau.com/app/profile/thuong.le1526/viz/PricingPerformanceTracker/Dashboard)
 
