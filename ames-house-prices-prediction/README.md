@@ -18,7 +18,7 @@ The analysis includes the following steps:
 
 | File | Description |
 |------|-------------|
-| `ames-cleaning-and-modeling.R` | R script for data cleaning, feature engineering, and modeling |
+| `ames-cleaning-and-modeling.R` | R script for data cleaning and modeling |
 | `ames-project-report.pdf` | Final report summarizing approach, model results, and insights |
 | `ames-submission.csv` | Sample prediction submission
 
