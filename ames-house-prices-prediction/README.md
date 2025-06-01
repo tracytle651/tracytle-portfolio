@@ -8,29 +8,19 @@ This project was completed using R and includes all stages of the machine learni
 
 The analysis includes the following steps:
 
-- Exploratory Data Analysis (EDA) to understand distributions and relationships
-- Data cleaning, including treatment of missing values and outliers
-- Feature transformation and encoding
-- Model training using various machine learning techniques such as linear regression, ridge regression, lasso regression
-- Evaluate model performance using root mean squared error (RMSE)
+- Performing exploratory data analysis to identify variable distributions, patterns, and relationships
+- Cleaning the dataset by addressing missing values, outliers, and inconsistencies
+- Transforming and encoding features to prepare the data for modeling
+- Training multiple regression models, including linear, ridge, and lasso regression
+- Assessing model performance using root mean squared error (RMSE) as the evaluation metric
 
 ## Files Included
 
 | File | Description |
 |------|-------------|
-| `ames_modeling.R` | R script for data cleaning, EDA, feature engineering, and modeling |
-| `ames_housing_report.pdf` | Final report summarizing approach, model results, and insights |
-| `submission.csv` | Sample prediction submission
+| `ames-cleaning-and-modeling.R` | R script for data cleaning, feature engineering, and modeling |
+| `ames-project-report.pdf` | Final report summarizing approach, model results, and insights |
+| `ames-submission.csv` | Sample prediction submission
 
-
-
-## Key Takeaways
-
-- Demonstrated practical data preprocessing and feature engineering skills
-- Applied and interpreted regularized regression techniques in a real-world dataset
-- Evaluated and compared model performance using cross-validation metrics
-- Gained experience translating raw housing data into actionable insights
-
-For additional context, this project was based on the Ames Housing dataset from Kaggle, commonly used as an alternative to the Boston Housing dataset due to its richness and relevance.
 
 [Back to portfolio homepage](../README.md)
