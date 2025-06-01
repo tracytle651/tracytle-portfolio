@@ -4,14 +4,6 @@ This project explores predictive modeling using the Ames, Iowa housing dataset. 
 
 This project was completed using R and includes all stages of the machine learning pipeline, from data preparation to model evaluation.
 
-## Project Objectives
-
-- Clean and preprocess the Ames dataset for modeling
-- Engineer relevant features and handle categorical variables
-- Explore and visualize key variables influencing home prices
-- Apply and compare multiple regression models
-- Evaluate performance using root mean squared error (RMSE)
-
 ## Methodology
 
 The analysis includes the following steps:
@@ -19,8 +11,8 @@ The analysis includes the following steps:
 - Exploratory Data Analysis (EDA) to understand distributions and relationships
 - Data cleaning, including treatment of missing values and outliers
 - Feature transformation and encoding
-- Model training using linear regression, ridge regression, and lasso regression
-- Model selection based on cross-validation performance
+- Model training using various machine learning techniques such as linear regression, ridge regression, lasso regression
+- Evaluate model performance using root mean squared error (RMSE)
 
 ## Files Included
 
