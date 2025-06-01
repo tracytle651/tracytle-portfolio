@@ -51,13 +51,11 @@ This project investigated the effects of seat belt enforcement levels and BAC re
 
 ## 📄 Publication
 
-### [A Student-Led Consulting Model for Teaching Analytics](https://aisel.aisnet.org/amcis2024/is_education/is_education/14/)  
+### [An Examination of College Students’ IT Major Choice Decisions (https://aisel.aisnet.org/amcis2024/is_education/is_education/14/)  
 **Co-author**, published at the 2024 Americas Conference on Information Systems (AMCIS)
 
-This peer-reviewed paper presents a pedagogical framework for integrating real-world consulting experiences into undergraduate analytics education.
+This paper empirically tests a comprehensive model of factors influencing female students' decisions to pursue IT majors, originally proposed by Adya and Kaiser (2005). Using survey data from 186 college freshmen, the study highlights the significant impact of role model access and IT self-efficacy on students' major choices. 
 
-> **Venue**: AMCIS 2024 · Information Systems Education Track  
-> **Topics**: Analytics Education · Experiential Learning · Student Consulting · Curriculum Design
-
+> **Venue**: AMCIS 2024 · Information Systems Education Track
 
 
