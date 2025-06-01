@@ -6,6 +6,11 @@ Using admissions data from Fall 2017 to Fall 2021, the project applies a classif
 
 The analysis draws from a dataset of over 15,000 admitted applicants and includes a wide range of demographic, academic, and behavioral variables. After extensive data cleaning and feature engineering, several machine learning models were implemented and evaluated, including logistic regression, decision trees, support vector machines, and ensemble methods.
 
+## Research Question
+
+What factors best predict whether an admitted student will choose to enroll at Trinity University?
+
+
 ## Deliverables
 
 | File | Description |
@@ -14,9 +19,6 @@ The analysis draws from a dataset of over 15,000 admitted applicants and include
 | `enrollment-project-report.pdf` | Full report describing methodology, models, and findings |
 
 
-## Research Question
-
-What factors best predict whether an admitted student will choose to enroll at Trinity University?
 
 ## Key Insights
 
