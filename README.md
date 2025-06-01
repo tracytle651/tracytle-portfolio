@@ -31,7 +31,7 @@ This project analyzed sales and pricing performance data from a regional thrift 
 
 ### [2. Gasoline Demand Forecasting and Economic Driver Analysis](./gasoline-demand-forecasting)  
 This project explored U.S. gasoline demand from 2000 to 2023 by combining energy, macroeconomic, and transportation indicators. The modeling process included forecasting with Prophet and XGBoost, along with interpretability techniques to understand feature influence.  
-Technologies: Python
+> **Technologies**: Python
 
 ### [3. College Enrollment Decision Prediction](./college-enrollment-decision-prediction)  
 This project predicted student enrollment outcomes using application data and machine learning models. Logistic regression and classification techniques in R were used to analyze trends influencing college enrollment decisions.  
