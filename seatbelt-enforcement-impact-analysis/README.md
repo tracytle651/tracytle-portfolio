@@ -7,20 +7,6 @@ The dataset represents panel data from all 50 U.S. states and the District of Co
 The goal of this project is to statistically test whether stricter seat belt enforcement laws and the implementation of a 0.08 BAC (blood alcohol content) limit significantly reduce the number of road fatalities per million vehicle miles traveled.
 
 
-## Data Description
-
-The dataset includes 765 observations over 15 years. Below are some notable variables used in the analysis:
-
-- `fatalities`: Number of fatalities per million vehicle miles traveled (numeric)
-- `seatbelt`: Seat belt usage rate (numeric)
-- `enforce`: Type of seat belt enforcement law (`primary`, `secondary`, `none`)
-- `alcohol`: Whether a 0.08 BAC limit law exists (`yes`, `no`)
-
-Source:  
-Stock, J.H. and Watson, M.W. (2007). *Introduction to Econometrics*  
-Available via [`AER::USSeatBelts`](https://rdrr.io/cran/AER/man/USSeatBelts.html)
-
-
 ## Methodology
 
 - Exploratory Data Analysis (EDA): Summary statistics, boxplots, bar plots
