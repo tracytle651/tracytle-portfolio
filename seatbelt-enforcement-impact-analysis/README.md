@@ -44,7 +44,7 @@ Available via [`AER::USSeatBelts`](https://rdrr.io/cran/AER/man/USSeatBelts.html
 - Interaction effects suggest that BAC laws modify the relationship between seat belt usage and fatalities.
 
 
-## Files Included
+## Deliverables
 
 | File | Description |
 |------|-------------|
