@@ -5,7 +5,7 @@ This project investigates the key macroeconomic, energy, transportation, and beh
 The project was completed as part of the BAT-3302 Data Science course.
 
 
-## Objective
+## Research Questions
 
 To model and forecast U.S. consumer gasoline demand and identify the most influential economic and behavioral variables affecting its fluctuation over time. The analysis focuses on understanding:
 
