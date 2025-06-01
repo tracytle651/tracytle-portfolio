@@ -25,6 +25,7 @@ In this section, you can find a brief summary of selected projects, organized in
 
 ### [Project #1: Pricing Performance Analysis](./pricing-performance-analysis)  
 This project analyzed sales and pricing performance data from a regional thrift retailer. Using R for data cleaning and preparation, the final output was an interactive Tableau dashboard that allowed stakeholders to track markdown trends and category performance. 
+
 [Pricing Performance Tracker Dashboard](https://public.tableau.com/app/profile/thuong.le1526/viz/PricingPerformanceTracker/Dashboard)
 > **Skills**: R · Data Cleaning · Dashboard Design · Tableau · Business Analysis
 
