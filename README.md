@@ -30,7 +30,7 @@ Created a Power BI dashboard to analyze regional sales performance, product cate
 
 ---
 
-### [E-commerce RFM Segmentation](./e-commerce-rfm)
+### [Pricing Performance Analysis](./pricing-performance-analysis)
 Performed RFM (Recency, Frequency, Monetary) segmentation on customer data to identify loyal and high-value customers for targeted marketing.
 
 > **Skills**: Python · Pandas · Customer Segmentation · Data Visualization
