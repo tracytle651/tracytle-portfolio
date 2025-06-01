@@ -26,9 +26,10 @@ The analysis includes the following steps:
 
 | File | Description |
 |------|-------------|
-| `ames-cleaning-and-modeling.R` | Full R script including data processing, modeling, and evaluation |
-| `ames-report.pdf` | Final written report detailing the methodology, findings, and insights |
-| `ames-submission.csv` | Sample prediction submission (if from Kaggle competition)
+| `ames_modeling.R` | R script for data cleaning, EDA, feature engineering, and modeling |
+| `ames_housing_report.pdf` | Final report summarizing approach, model results, and insights |
+| `submission.csv` | Sample prediction submission
+
 
 
 ## Key Takeaways
