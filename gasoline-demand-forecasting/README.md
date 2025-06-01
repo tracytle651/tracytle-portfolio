@@ -12,6 +12,15 @@ To model and forecast U.S. consumer gasoline demand and identify the most influe
 - What variables are most predictive of gasoline consumption?
 - How do key predictors change over time across economic cycles?
 - How can organizations anticipate demand shifts using interpretable machine learning?
+  
+
+## Deliverables
+
+| File | Description |
+|------|-------------|
+| `gasoline-demand-forecasting.ipynb` | Full modeling notebook with preprocessing, forecasting, and feature importance |
+| `gasoline-demand-report.pdf` | Final project report summarizing methods and findings |
+| `gasoline-cleaned-dataset.csv` | Cleaned dataset for analysis |
 
 
 ## Data & Methodology
@@ -62,15 +71,6 @@ The final model — XGBoost with Prophet-generated seasonality (`yhat`) as an in
   - Fuel imports (positive)
 
 This temporal variation highlights the importance of updating demand models regularly.
-
-
-## Files Included
-
-| File | Description |
-|------|-------------|
-| `gasoline-demand-forecasting.ipynb` | Full modeling notebook with preprocessing, forecasting, and feature importance |
-| `gasoline-demand-report.pdf` | Final project report summarizing methods and findings |
-| `gasoline-cleaned-dataset.csv` | Cleaned dataset for analysis |
 
 
 [Back to Portfolio Homepage](../README.md)
