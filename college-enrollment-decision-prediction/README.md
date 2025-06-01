@@ -26,8 +26,8 @@ Interestingly, some commonly assumed predictors — such as race, religion, GPA,
 
 | File | Description |
 |------|-------------|
-| `admission-modeling.R` | R script for data cleaning, transformation, and model implementation |
-| `admission-report.pdf` | Full report describing methodology, models, and findings |
+| `enrollment-data-cleaning-and-modeling.R` | R script for data cleaning, transformation, and model implementation |
+| `enrollment-project-report.pdf` | Full report describing methodology, models, and findings |
 
 
 [Back to portfolio homepage](../README.md)
