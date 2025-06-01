@@ -11,13 +11,6 @@ The analysis draws from a dataset of over 15,000 admitted applicants and include
 What factors best predict whether an admitted student will choose to enroll at Trinity University?
 
 
-## Deliverables
-
-| File | Description |
-|------|-------------|
-| `enrollment-data-cleaning-and-modeling.R` | R script for data cleaning, transformation, and model implementation |
-| `enrollment-project-report.pdf` | Full report describing methodology, models, and findings |
-
 
 
 ## Key Insights
@@ -31,6 +24,13 @@ Variables with the strongest predictive influence included:
 - **Second Academic Interest**: Applicants who listed a secondary interest demonstrated more engagement and intent.
 
 Interestingly, some commonly assumed predictors — such as race, religion, GPA, and ACT scores — did not have significant influence in this dataset.
+
+## Deliverables
+
+| File | Description |
+|------|-------------|
+| `enrollment-data-cleaning-and-modeling.R` | R script for data cleaning, transformation, and model implementation |
+| `enrollment-project-report.pdf` | Full report describing methodology, models, and findings |
 
 
 [Back to portfolio homepage](../README.md)
