@@ -72,6 +72,5 @@ This temporal variation highlights the importance of updating demand models regu
 | `gasoline-demand-report.pdf` | Final project report summarizing methods and findings |
 | `gasoline-cleaned-dataset.png` | Cleaned dataset for analysis |
 
----
 
 [Back to Portfolio Homepage](../README.md)
