@@ -25,7 +25,7 @@ The final results were presented through an interactive Tableau dashboard:
 [**Pricing Performance Tracker Dashboard**](https://public.tableau.com/app/profile/thuong.le1526/viz/PricingPerformanceTracker/Dashboard)
 
 
-## Files Included
+## Deliverables
 
 | File | Description |
 |------|-------------|
