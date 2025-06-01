@@ -26,7 +26,7 @@ The goal of this project is to statistically test whether stricter seat belt enf
 
 - There is a statistically significant negative relationship between seat belt usage and traffic fatalities.
 - Primary enforcement laws were most effective in raising seat belt usage rates, followed by secondary enforcement.
-- States with 0.08 BAC laws had significantly lower fatality rates** than those without such laws.
+- States with 0.08 BAC laws had significantly lower fatality rates than those without such laws.
 - Interaction effects suggest that BAC laws modify the relationship between seat belt usage and fatalities.
 
 
