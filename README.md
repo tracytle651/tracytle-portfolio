@@ -29,7 +29,7 @@ This project analyzed sales and pricing performance data from a regional thrift 
 [Pricing Performance Tracker Dashboard](https://public.tableau.com/app/profile/thuong.le1526/viz/PricingPerformanceTracker/Dashboard)
 > **Skills**: R · Data Cleaning · Dashboard Design · Tableau · Business Analysis
 
-### [Gasoline Demand Forecasting and Driver Analysis](./gasoline-demand-forecasting)  
+### [2. Gasoline Demand Forecasting and Economic Driver Analysis](./gasoline-demand-forecasting)  
 This project explored U.S. gasoline demand from 2000 to 2023 by combining energy, macroeconomic, and transportation indicators. The modeling process included forecasting with Prophet and XGBoost, along with interpretability techniques to understand feature influence.  
 > **Skills**: Python · XGBoost · Feature Engineering · SHAP · Time Series Modeling
 
