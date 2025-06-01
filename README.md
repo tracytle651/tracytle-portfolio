@@ -1,4 +1,4 @@
-# Tracy Le's Portfolio
+# Tracy Le - Personal Portfolio
 
 Welcome to my portfolio repository!
 
