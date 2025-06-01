@@ -16,7 +16,7 @@ Throughout my academic journey and early professional experience, I have worked 
 - **Database & Query Languages:** SQL (PostgreSQL, MySQL)  
 - **Data Analysis & Programming:** Python (Pandas, Matplotlib, Seaborn), Microsoft Excel (Pivot Tables, Advanced Formulas, Charts)  
 - **Data Visualization:** Power BI, Tableau  
-- **ETL & Data Integration:** Alteryx, Data Cleaning, ETL Processes  
+- **ETL & Data Integration:** Alteryx
 - **Business Reporting:** Designing and automating reports to support strategic insights
 
 
