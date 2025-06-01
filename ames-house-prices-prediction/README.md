@@ -1,43 +1,43 @@
-# 🏡 Ames Housing Price Prediction
+# Ames Housing Price Prediction
 
-This project applies predictive modeling to the Ames, Iowa housing dataset from Kaggle. The goal is to accurately estimate home sale prices based on over 70 features describing property characteristics, quality, and neighborhood factors.
+This project explores predictive modeling using the Ames, Iowa housing dataset. The objective is to build a regression model that accurately estimates residential property sale prices based on a variety of quantitative and qualitative features.
 
----
+This project was completed using R and includes all stages of the machine learning pipeline, from data preparation to model evaluation.
 
-## 🧠 Project Objective
+## Project Objectives
 
-To build a regression model that predicts housing prices with strong accuracy and interpretability, using a clean and well-documented dataset as a foundation for end-to-end modeling.
+- Clean and preprocess the Ames dataset for modeling
+- Engineer relevant features and handle categorical variables
+- Explore and visualize key variables influencing home prices
+- Apply and compare multiple regression models
+- Evaluate performance using root mean squared error (RMSE)
 
----
+## Methodology
 
-## 📌 What This Project Covers
+The analysis includes the following steps:
 
-- Data exploration and cleaning
-- Handling missing values, skewed variables, and categorical encodings
-- Feature engineering and variable selection
-- Model comparison using RMSE
-- Final prediction using regularized regression (Lasso, Ridge)
+- Exploratory Data Analysis (EDA) to understand distributions and relationships
+- Data cleaning, including treatment of missing values and outliers
+- Feature transformation and encoding
+- Model training using linear regression, ridge regression, and lasso regression
+- Model selection based on cross-validation performance
 
-The entire workflow is conducted in **R**, with detailed commentary and visualizations included in the final report.
-
----
-
-## 📂 Files in This Folder
+## Files Included
 
 | File | Description |
 |------|-------------|
-| `ames_modeling.R` | R script for data cleaning, EDA, feature engineering, and modeling |
-| `ames_housing_report.pdf` | Final report summarizing approach, model results, and insights |
-| (optional) `submission.csv` | Sample prediction submission (if from Kaggle competition)
+| `ames-cleaning-and-modeling.R` | Full R script including data processing, modeling, and evaluation |
+| `ames-report.pdf` | Final written report detailing the methodology, findings, and insights |
+| `ames-submission.csv` | Sample prediction submission (if from Kaggle competition)
 
----
 
-## 💡 Key Takeaways
+## Key Takeaways
 
-- Emphasized clarity and interpretability throughout the modeling process
-- Practiced data preprocessing techniques commonly required in real-world datasets
-- Gained experience applying regularized regression and evaluating performance on unseen data
+- Demonstrated practical data preprocessing and feature engineering skills
+- Applied and interpreted regularized regression techniques in a real-world dataset
+- Evaluated and compared model performance using cross-validation metrics
+- Gained experience translating raw housing data into actionable insights
 
----
+For additional context, this project was based on the Ames Housing dataset from Kaggle, commonly used as an alternative to the Boston Housing dataset due to its richness and relevance.
 
-📁 [← Back to Portfolio Homepage](../README.md)
+[Back to portfolio homepage](../README.md)
