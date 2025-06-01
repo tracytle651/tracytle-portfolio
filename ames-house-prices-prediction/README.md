@@ -1,4 +1,4 @@
-# Ames Housing Price Prediction
+# Kaggle's Ames House Prices Competition
 
 This project explores predictive modeling using the Ames, Iowa housing dataset. The objective is to build a regression model that accurately estimates residential property sale prices based on a variety of quantitative and qualitative features.
 
