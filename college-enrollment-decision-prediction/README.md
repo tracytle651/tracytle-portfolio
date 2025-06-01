@@ -1,0 +1,53 @@
+# College Admission Yield Modeling – Trinity University
+
+This project was completed as part of a Data Science course at Trinity University and focuses on predicting whether admitted students will choose to enroll. The goal was to help the Office of Admissions better understand the factors influencing student decision-making and improve yield forecasting.
+
+Using admissions data from Fall 2017 to Fall 2021, the project applies a classification modeling approach to predict enrollment decisions and surface meaningful patterns in the data. All modeling and analysis were conducted using R.
+
+## Project Overview
+
+The analysis draws from a dataset of over 15,000 admitted applicants and includes a wide range of demographic, academic, and behavioral variables. After extensive data cleaning and feature engineering, several machine learning models were implemented and evaluated, including logistic regression, decision trees, support vector machines, and ensemble methods.
+
+The project aimed not only to build a predictive model with strong performance, but also to provide insights that could inform admissions outreach and policy.
+
+## Research Question
+
+What factors best predict whether an admitted student will choose to enroll at Trinity University?
+
+## Modeling Summary
+
+The following classification models were tested and compared using Kappa as the primary evaluation metric:
+
+| Model                       | Kappa Score |
+|----------------------------|-------------|
+| Logistic Regression         | 0.535       |
+| Decision Tree (Pruned)      | 0.419       |
+| Bagging                     | 0.474       |
+| Random Forest               | 0.499       |
+| Boosting (Best Model)       | 0.538       |
+| Support Vector Machines     | 0.45–0.47   |
+| K-Nearest Neighbors         | 0.108       |
+
+The **Boosting model** performed best, producing the highest Kappa score and most accurate classification results.
+
+## Key Insights
+
+Variables with the strongest predictive influence included:
+
+- **Total Event Participation**: Higher engagement in university-hosted events correlated with increased likelihood of enrollment.
+- **Decision Plan**: Early action or early decision applicants were more likely to attend.
+- **Count of Campus Visits**: Students who visited campus were more inclined to enroll.
+- **Athlete Status**: Athletic involvement was a strong indicator of commitment.
+- **Second Academic Interest**: Applicants who listed a secondary interest demonstrated more engagement and intent.
+
+Interestingly, some commonly assumed predictors — such as race, religion, GPA, and ACT scores — did not have significant influence in this dataset.
+
+## Files Included
+
+| File | Description |
+|------|-------------|
+| `admission-modeling.R` | R script for data cleaning, transformation, and model implementation |
+| `admission-report.pdf` | Full report describing methodology, models, and findings |
+
+
+[Back to portfolio homepage](../README.md)
