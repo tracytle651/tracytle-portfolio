@@ -20,7 +20,6 @@ Throughout my academic journey and early professional experiences, I have worked
 - **Data Analysis & Programming:** Python (Pandas, Matplotlib, Seaborn), R, Microsoft Excel
 - **Data Visualization:** Power BI, Tableau  
 - **ETL & Data Integration:** Alteryx
-- **Business Reporting:** Designing and automating reports to support strategic insights
 
 ---
 
