@@ -70,7 +70,7 @@ This temporal variation highlights the importance of updating demand models regu
 |------|-------------|
 | `gasoline-demand-forecasting.ipynb` | Full modeling notebook with preprocessing, forecasting, and feature importance |
 | `gasoline-demand-report.pdf` | Final project report summarizing methods and findings |
-| `gasoline-cleaned-dataset.png` | Cleaned dataset for analysis |
+| `gasoline-cleaned-dataset.csv` | Cleaned dataset for analysis |
 
 
 [Back to Portfolio Homepage](../README.md)
