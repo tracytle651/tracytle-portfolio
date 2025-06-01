@@ -52,9 +52,9 @@ The final model — XGBoost with Prophet-generated seasonality (`yhat`) as an in
 
 ## Key Findings
 
-- **Gasoline demand is seasonal**, with consistent dips in winter months (Jan–Mar) and peaks in summer.
-- **Top predictors vary over time**. Rolling-decade analysis revealed that economic and behavioral drivers shift across decades.
-- **In the 2021–2023 period**, the top demand predictors included:
+- Gasoline demand is seasonal, with consistent dips in winter months (Jan–Mar) and peaks in summer.
+- Top predictors vary over time. Rolling-decade analysis revealed that economic and behavioral drivers shift across decades.
+- In the 2021–2023 period, the top demand predictors included:
   - Jobless claims (negative correlation)
   - US Dollar Index (negative correlation)
   - TSA passenger throughput (positive)
