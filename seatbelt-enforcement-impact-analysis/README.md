@@ -9,7 +9,7 @@ The goal of this project is to statistically test whether stricter seat belt enf
 
 ## Data Description
 
-The dataset includes 765 observations over 15 years, with the following variables used in the analysis:
+The dataset includes 765 observations over 15 years. Below are some notable variables used in the analysis:
 
 - `fatalities`: Number of fatalities per million vehicle miles traveled (numeric)
 - `seatbelt`: Seat belt usage rate (numeric)
