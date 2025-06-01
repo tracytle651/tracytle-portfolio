@@ -4,7 +4,6 @@ This project investigates the key macroeconomic, energy, transportation, and beh
 
 The project was completed as part of the BAT-3302 Data Science course.
 
----
 
 ## Objective
 
@@ -14,7 +13,6 @@ To model and forecast U.S. consumer gasoline demand and identify the most influe
 - How do key predictors change over time across economic cycles?
 - How can organizations anticipate demand shifts using interpretable machine learning?
 
----
 
 ## Data & Methodology
 
@@ -34,7 +32,6 @@ To model and forecast U.S. consumer gasoline demand and identify the most influe
 - One-hot encoding for seasonality (month)
 - Time-based train-test split to avoid data leakage (train: 2000–2022; test: Sep 2022–Sep 2023)
 
----
 
 ## Modeling Approach
 
@@ -52,7 +49,6 @@ The final model — XGBoost with Prophet-generated seasonality (`yhat`) as an in
 | Mean Absolute Error| ~198.5       | ~328.8                        |
 | R-squared          | ~0.73        | ~0.31                         |
 
----
 
 ## Key Findings
 
@@ -67,16 +63,14 @@ The final model — XGBoost with Prophet-generated seasonality (`yhat`) as an in
 
 This temporal variation highlights the importance of updating demand models regularly.
 
----
 
 ## Files Included
 
 | File | Description |
 |------|-------------|
-| `gasoline_demand_modeling.ipynb` | Full modeling notebook with preprocessing, forecasting, and feature importance |
-| `gasoline_demand_report.pdf` | Final project report summarizing methods and findings |
-| `shap_summary.png` | SHAP plot showing top predictors in recent years |
-| `gasoline_demand_predictions.csv` | Model output (optional) |
+| `gasoline-demand-forecasting.ipynb` | Full modeling notebook with preprocessing, forecasting, and feature importance |
+| `gasoline-demand-report.pdf` | Final project report summarizing methods and findings |
+| `gasoline-cleaned-dataset.png` | Cleaned dataset for analysis |
 
 ---
 
