@@ -9,7 +9,7 @@ Thanks for stopping by — feel free to browse, explore, and reach out.
 LinkedIn: https://www.linkedin.com/in/thuongtranhoaile/  
 Resume: Tracy Le Resume.pdf  
 
-#
+---
 
 
 ## Tools & Technologies
@@ -21,7 +21,7 @@ Throughout my academic journey and early professional experiences, I have worked
 - **ETL & Data Integration:** Alteryx
 - **Business Reporting:** Designing and automating reports to support strategic insights
 
-#
+---
 
 ## Portfolio Projects
 
@@ -53,7 +53,7 @@ This project involved designing a relational SQL database for a used bookstore. 
 This project investigated the effects of seat belt enforcement levels and BAC regulations on U.S. traffic fatality rates from 1983 to 1997. Statistical methods such as hypothesis testing and regression were applied to assess policy impact.  
 > **Technologies**: R
 
-#
+---
 
 ## Publication
 
@@ -64,7 +64,7 @@ This paper empirically tests a comprehensive model of factors influencing female
 
 > **Venue**: AMCIS 2024 · Information Systems Education Track
 
-#
+---
 
 ## Certificates
 - SQL (Advanced) Certification - HackerRank
