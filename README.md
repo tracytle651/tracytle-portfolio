@@ -38,7 +38,7 @@ This project predicted student enrollment outcomes using application data and ma
 > **Technologies**: R
 
 ### [4. Ames House Prices Prediction](./ames-house-prices-prediction)  
-This project modeled housing prices in Ames, Iowa using structured residential property data. Regression models with regularization (ridge and lasso) were applied to predict sale prices with improved generalizability.  
+This project modeled housing prices in Ames, Iowa using structured residential property data. Regression models with regularization were applied to predict sale prices with improved generalizability.  
 > **Technologies**: R
 
 ### [5. Bookstore Operational Database Design](./bookstore-operational-database-design)  
