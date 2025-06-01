@@ -9,6 +9,8 @@ Thanks for stopping by — feel free to browse, explore, and reach out.
 LinkedIn: https://www.linkedin.com/in/thuongtranhoaile/  
 Resume: Tracy Le Resume.pdf  
 
+#
+
 
 ## Tools & Technologies
 Throughout my academic journey and early professional experiences, I have worked extensively with a variety of data analysis, visualization, and database tools to extract insights, automate workflows, and support business reporting.
@@ -19,7 +21,7 @@ Throughout my academic journey and early professional experiences, I have worked
 - **ETL & Data Integration:** Alteryx
 - **Business Reporting:** Designing and automating reports to support strategic insights
 
-
+#
 
 ## Portfolio Projects
 
@@ -51,6 +53,8 @@ This project involved designing a relational SQL database for a used bookstore. 
 This project investigated the effects of seat belt enforcement levels and BAC regulations on U.S. traffic fatality rates from 1983 to 1997. Statistical methods such as hypothesis testing and regression were applied to assess policy impact.  
 > **Technologies**: R
 
+#
+
 ## Publication
 
 ### [An Examination of College Students’ IT Major Choice Decisions ](https://aisel.aisnet.org/amcis2024/is_education/is_education/14/)
@@ -59,6 +63,8 @@ This project investigated the effects of seat belt enforcement levels and BAC re
 This paper empirically tests a comprehensive model of factors influencing female students' decisions to pursue IT majors, originally proposed by Adya and Kaiser (2005). Using survey data from 186 college freshmen, the study highlights the significant impact of role model access and IT self-efficacy on students' major choices. 
 
 > **Venue**: AMCIS 2024 · Information Systems Education Track
+
+#
 
 ## Certificates
 - SQL (Advanced) Certification - HackerRank
