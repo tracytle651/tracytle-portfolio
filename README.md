@@ -6,8 +6,8 @@ This space is where I collect and share the work I’ve done throughout my acade
 
 Thanks for stopping by — feel free to browse, explore, and reach out.
 
-- **LinkedIn:** [linkedin.com/in/thuongtranhoaile](https://www.linkedin.com/in/thuongtranhoaile/)  
-- **Resume:** [Tracy Le – Resume (PDF)](./Tracy%20Le%20-%20Resume.pdf)
+LinkedIn: [linkedin.com/in/thuongtranhoaile](https://www.linkedin.com/in/thuongtranhoaile/)  
+Resume: [Tracy Le – Resume (PDF)](./Tracy%20Le%20-%20Resume.pdf)
 
 
 ---
