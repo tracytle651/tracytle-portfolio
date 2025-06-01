@@ -1,4 +1,4 @@
-# College Enrollment Decision Prediction – Trinity University
+# College Enrollment Decision Prediction
 
 This project was completed as part of the Machine Learning course at Trinity University and focuses on predicting whether admitted students will choose to enroll. The goal was to help the Office of Admissions better understand the factors influencing student decision-making and improve yield forecasting.
 
