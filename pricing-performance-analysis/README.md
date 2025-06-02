@@ -1,4 +1,4 @@
-# Pricing Performance Analysis for a Regional Thrift Store
+# Pricing Performance Analysis for a Regional Retail Store
 
 This project analyzes pricing performance for a regional secondhand retail store based in San Antonio. The objective was to assess how pricing strategy impacted item sales and store performance, using historical sales data. The project focused on data cleaning, exploratory analysis, and interactive dashboard development.
 
