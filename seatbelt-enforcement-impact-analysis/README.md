@@ -22,14 +22,6 @@ The goal of this project is to statistically test whether stricter seat belt enf
   All analysis was performed in R using `ggplot2`, `infer`, and `moderndive`.
 
 
-## Key Findings
-
-- There is a statistically significant negative relationship between seat belt usage and traffic fatalities.
-- Primary enforcement laws were most effective in raising seat belt usage rates, followed by secondary enforcement.
-- States with 0.08 BAC laws had significantly lower fatality rates than those without such laws.
-- Interaction effects suggest that BAC laws modify the relationship between seat belt usage and fatalities.
-
-
 ## Deliverables
 
 | File | Description |
