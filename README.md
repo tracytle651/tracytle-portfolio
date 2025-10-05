@@ -49,10 +49,6 @@ This project modeled housing prices in Ames, Iowa using structured residential p
 This project involved designing a relational SQL database for a used bookstore. The schema captured operations such as inventory management, sales tracking, and customer engagement. Business questions were answered using optimized SQL queries.  
 > **Technologies**: SQL
 
-### [6. Seat Belt Enforcement Impact Analysis](./seatbelt-enforcement-impact-analysis) 
-This project investigated the effects of seat belt enforcement levels and BAC regulations on U.S. traffic fatality rates from 1983 to 1997. Statistical methods such as hypothesis testing and regression were applied to assess policy impact.  
-> **Technologies**: R
-
 ---
 
 ## Publication
