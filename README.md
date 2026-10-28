@@ -4,8 +4,6 @@ Welcome to my portfolio repository!
 
 This space is where I collect and share the work I’ve done throughout my academic journey. These projects reflect not only the skills I’ve developed, but also the curiosity and care I bring to solving problems thoughtfully and clearly.
 
-Thanks for stopping by! Feel free to browse, explore, and reach out.
-
 LinkedIn: [linkedin.com/in/thuongtranhoaile](https://www.linkedin.com/in/thuongtranhoaile/)  
 
 ---
