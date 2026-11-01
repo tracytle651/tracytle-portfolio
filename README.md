@@ -13,7 +13,7 @@ LinkedIn: [linkedin.com/in/thuongtranhoaile](https://www.linkedin.com/in/thuongt
 Throughout my academic journey and early professional experiences, I have worked extensively with a variety of data analysis, visualization, and database tools to extract insights, automate workflows, and support business reporting.
 
 - **Database & Query Languages:** SQL (PostgreSQL, MySQL)  
-- **Data Analysis & Programming:** Python (Pandas, Matplotlib, Seaborn), R, Microsoft Excel
+- **Data Analysis & Programming:** Python (Pandas, Matplotlib, Seaborn), R
 - **Data Visualization:** Power BI, Tableau  
 - **ETL & Data Integration:** Alteryx
 
