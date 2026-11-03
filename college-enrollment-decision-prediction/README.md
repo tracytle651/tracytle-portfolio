@@ -1,14 +1,14 @@
 # College Enrollment Decision Prediction
 
-This project was completed as part of the Machine Learning course at Trinity University and focuses on predicting whether admitted students will choose to enroll. The goal was to help the Office of Admissions better understand the factors influencing student decision-making and improve yield forecasting.
+This project was completed as part of the Machine Learning course and focuses on predicting whether admitted students will choose to enroll. The goal was to help the Office of Admissions better understand the factors influencing student decision-making and improve yield forecasting.
 
-Using admissions data from Fall 2017 to Fall 2021, the project applies a classification modeling approach to predict enrollment decisions and surface meaningful patterns in the data. All modeling and analysis were conducted using R.
+Using X university’s admissions data from Fall 2017 to Fall 2021, the project applies a classification modeling approach to predict enrollment decisions and surface meaningful patterns in the data. All modeling and analysis were conducted using R.
 
 The analysis draws from a dataset of over 15,000 admitted applicants and includes a wide range of demographic, academic, and behavioral variables. After extensive data cleaning and feature engineering, several machine learning models were implemented and evaluated, including logistic regression, decision trees, support vector machines, and ensemble methods.
 
 ## Research Question
 
-What factors best predict whether an admitted student will choose to enroll at Trinity University?
+What factors best predict whether an admitted student will choose to enroll at X University?
 
 
 
